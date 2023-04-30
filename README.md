@@ -1,13 +1,25 @@
 
-# [MakeoverMonday](http://www.makeovermonday.co.uk/)
 
-O que é isso?
+# MakeoverMonday  - Tableau & Power BI 
 
-Makeover Monday é um projeto semanal de visualização de dados sociais.
-Cada semana um link é postado no site Makeover Monday com um dashboard e seus dataset e, em seguida, você refaz o dashboard com os pontos que você deseja desenvolver.
+&nbsp;&nbsp;&nbsp;:link: [Blog][Blog]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:e-mail: [Email][Email]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:speech_balloon: [Twitter][Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;:necktie: [LinkedIn][LinkedIn]
+
+</div>
+
+<!--
+Quick Link
+-->
+
+[Twitter]:https://twitter.com/mrncstt
+[LinkedIn]:https://www.linkedin.com/in/mrncstt/
+[Email]:mailto:mrncsttt@gmail.com
+[Blog]:https://mrncstt.github.io/
+<div align="center">
 
 O objetivo é recontar a história de forma mais eficaz, assim como aprender sobre datasets efetivos.
 
 Neste repositório, você vai minhas submissões no projeto semanal. 
 
-Eu adoraria receber seu comentário no meu [e-mail](marianacosta.data@gmail.com)
+
+#### [W 17 - 2023](https://github.com/mrncstt/makeovermonday/)
+#### [W 27 - 2019](https://github.com/mrncstt/makeovermonday/tree/master/W27)
